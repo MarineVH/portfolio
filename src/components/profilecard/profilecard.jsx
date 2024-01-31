@@ -1,4 +1,6 @@
 import React from "react";
+import { FaGithub } from "react-icons/fa";
+import { FaLinkedinIn } from "react-icons/fa";
 
 const ProfileCard = () => {
  return (
@@ -14,6 +16,8 @@ const ProfileCard = () => {
                 <h2 className="text-2xl">Junior Frontend Developper</h2>
                 <p className="">ijgbuyavgubhojbgiabxjknbxjknxzbjhanxihb hjdnscd bsjhacnshiujk</p>
                 <a href="Curriculum_Vitae_Marine_Van_Hees_EN.pdf" download="Curriculum Vitae Marine Van Hees">Download CV</a>
+                <a href=""><FaGithub /></a>
+                <a href=""><FaLinkedinIn className="border rounded-full"/></a>
             </div>
         </body>
     </main>
