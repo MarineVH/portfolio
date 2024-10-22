@@ -1,26 +1,18 @@
 [
     {
-      "title": "Project A",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Fictitious Restaurant",
+      "imageSrc": "projects/yu-shifu-restaurant1.png",
+      "description": "This is the first project ever made to learn bootstrap.",
+      "skills": ["HTML", "Bootstrap"],
+      "demo": "https://marinevh.github.io/restaurant-css-framework/",
+      "source": "https://github.com/MarineVH/restaurant-css-framework"
     },
     {
-      "title": "Project B",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
-    },
-    {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Cookie clicker game",
+      "imageSrc": "projects/desktop1.png",
+      "description": "This is the first group project made to learn about javascript.",
+      "skills": ["HTML", "CSS", "Javascript"],
+      "demo": "https://marinevh.github.io/cookie-clicker/",
+      "source": "https://github.com/MarineVH/cookie-clicker"
     }
   ]

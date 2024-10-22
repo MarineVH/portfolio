@@ -1,29 +1,16 @@
 [
     {
-      "role": "Software Engineer",
-      "organisation": "Google",
-      "startDate": "Sept, 2022",
-      "endDate": "Present",
-      "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-      "imageSrc": "history/google.png"
+      "role": "Front-End Developer Inter",
+      "organisation": "HALPI",
+      "startDate": "Apr, 2024",
+      "endDate": "June, 2024",
+      "experiences": ["Use of HTML5, CSS, Bootstrap, Javascript, Python, Django", "Modify models", "Create different pages", "Create forms", "Integrate data"]
     },
     {
-      "role": "UI Designer",
-      "organisation": "Mirosoft",
-      "startDate": "Aug, 2021",
-      "endDate": "Aug, 2022",
-      "experiences": ["Worked on Windows 11", "Designed the control panel"],
-      "imageSrc": "history/microsoft.png"
-    },
-    {
-      "role": "SWE Intern",
-      "organisation": "Netflix",
-      "startDate": "Apr, 2020",
-      "endDate": "Jun, 2020",
-      "experiences": [
-        "Worked on component library",
-        "Helped create UI components"
-      ],
-      "imageSrc": "history/netflix.png"
+      "role": "Junior Web Developer Trainee",
+      "organisation": "Becode",
+      "startDate": "Sept, 2023",
+      "endDate": "Apr, 2024",
+      "experiences": ["Fictitious Restaurant Website built with HTML/Bootstrap", "Cookie Clicker Game built with HTML/CSS/Javascript", "Streaming Site built with HTML/CSS/Bootstrap/Typescript/Vite/React/PHP/Axios"]
     }
   ]
