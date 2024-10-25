@@ -9,7 +9,7 @@
     },
     {
       "title": "Cookie clicker game",
-      "imageSrc": "projects/desktop1.png",
+      "imageSrc": "projects/coockie-clicker.png",
       "description": "This is the first group project made to learn about javascript.",
       "skills": ["HTML", "CSS", "Javascript"],
       "demo": "https://marinevh.github.io/cookie-clicker/",
